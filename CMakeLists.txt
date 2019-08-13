@@ -3,4 +3,4 @@ project(algorhithms)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(algorhithms main.cpp sort.cpp sort.h)
+add_executable(algorhithms main.cpp sort.cpp sort.h search.cpp search.h)

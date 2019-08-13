@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/johnnyhu/CLionProjects/Cplusalgo/main.cpp
+iostream
+-
+sort.h
+/Users/johnnyhu/CLionProjects/Cplusalgo/sort.h
+search.h
+/Users/johnnyhu/CLionProjects/Cplusalgo/search.h
+
+/Users/johnnyhu/CLionProjects/Cplusalgo/search.h
+iostream
+-
+string
+-
+
+/Users/johnnyhu/CLionProjects/Cplusalgo/sort.h
+iostream
+-
+vector
+-
+
